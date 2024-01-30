@@ -7,7 +7,7 @@ Full Stack Developer
 I am a Computer Science Student in Bangladesh. Since beginning my journey as a freelance both fontend and backend designer nearly 3 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [https://badhonportfolio4.netlify.app/](http://badhonportfolio4.netlify.app/)
+* 🖥️  See my portfolio at https://badhondev.netlify.app/
 * ✉️  You can contact me at [biswasbadhon896@gmail.com](mailto:biswasbadhon896@gmail.com)
 * 🧠  I'm learning blockchain, hyperledger, Advanced MERN Stack
 
