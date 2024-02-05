@@ -4,7 +4,7 @@ Hi 👋 My name is Badhon Biswas
 Full Stack Developer
 --------------------
 
-I am a Computer Science Student in Bangladesh. Since beginning my journey as a freelance both fontend and backend designer nearly 3 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time
+Experienced MERN stack web developer with a focus on virtual reality and 3D web design. Proven ability to create immersive and interactive web experiences, blending technical proficiency with creative design skills.Passionate about pushing the boundaries of web development through innovation and staying current with industry trends.
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at https://badhondev.netlify.app/
