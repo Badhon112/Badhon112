@@ -9,7 +9,7 @@ Experienced MERN stack web developer with a focus on virtual reality and 3D web 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at https://badhondev.netlify.app/
 * ✉️  You can contact me at [biswasbadhon896@gmail.com](mailto:biswasbadhon896@gmail.com)
-* 🧠  I'm learning blockchain, hyperledger, Advanced MERN Stack
+* 🧠  I'm learning Advanced MERN Stack,Cloud,DevOps.
 
 ### Skills
 
