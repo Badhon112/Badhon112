@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on TheClinicall Limited<br>👯 I’m looking to collaborate on TheClinicall Tech Team<br>🤝 I’m looking for help with My DEVSECOPS Skills<br>🌱 I’m currently learning MLOPS<br>💬 Ask me about DEVSECOPS adn Cloud<br>⚡ Fun fact I like to Sleep
 
 
 ## 🌐 Socials:
