@@ -10,10 +10,6 @@ Email Me 👉 ✉️ **biswasbadhon896@gmail.com** For Collaboration/Project or 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/badhonbiswas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badhonbiswas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswasbadhon896@gmail.com) 
 
-<!-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
-
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -37,7 +33,11 @@ Email Me 👉 ✉️ **biswasbadhon896@gmail.com** For Collaboration/Project or 
 ![](https://streak-stats.demolab.com/?user=Badhon112&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Badhon112&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  -->
+## Snake Game
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Badhon112&theme=dark&no-frame=false&no-bg=false&margin-w=4)
