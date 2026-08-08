@@ -4,15 +4,15 @@
 Email Me 👉 ✉️ **biswasbadhon896@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 💫 About Me:
-🔐Focused on Cybersecurity, DevSecOps & Application Security
-🛡️ Interested in SOC Operations, Threat Detection & Security Monitoring
-🕵️ Practicing Penetration Testing & Offensive Security
-☁️ Working with AWS, Azure, Kubernetes & Cloud Infrastructure
-⚙️ Building CI/CD and DevSecOps pipelines
-💻 Developing applications with JavaScript, TypeScript, Python & Node.js
-🐳 Working with Docker, Kubernetes, Jenkins, GitHub Actions & GitLab CI/CD
-🔎 Exploring SIEM, Vulnerability Management, Network Security & Threat Detection
-🌱 Continuously learning and improving my Cybersecurity & DevSecOps skills
+🔐Focused on Cybersecurity, DevSecOps & Application Security<br>
+🛡️ Interested in SOC Operations, Threat Detection & Security Monitoring<br>
+🕵️ Practicing Penetration Testing & Offensive Security<br>
+☁️ Working with AWS, Azure, Kubernetes & Cloud Infrastructure<br>
+⚙️ Building CI/CD and DevSecOps pipelines<br>
+💻 Developing applications with JavaScript, TypeScript, Python & Node.js<br>
+🐳 Working with Docker, Kubernetes, Jenkins, GitHub Actions & GitLab CI/CD<br>
+🔎 Exploring SIEM, Vulnerability Management, Network Security & Threat Detection<br>
+🌱 Continuously learning and improving my Cybersecurity & DevSecOps skills<br>
 
 
 ## 🌐 Socials:
