@@ -1,10 +1,18 @@
 # 💫 Hi 👋, I'm Badhon Biswas
-**A passionate Cloud Engineer || DevOps Engineer || AWS Community Builder || SRE Enginner**
+**🛡️ Cybersecurity Engineer | 🔐 DevSecOps | ☁️ Cloud Engineer | ⚙️ SRE | 💻 Software Engineer**
 
 Email Me 👉 ✉️ **biswasbadhon896@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 💫 About Me:
-🔭 I’m currently working on TheClinicall Limited<br>👯 I’m looking to collaborate on TheClinicall Tech Team<br>🤝 I’m looking for help with My DEVSECOPS Skills<br>🌱 I’m currently learning MLOPS<br>💬 Ask me about DEVSECOPS adn Cloud<br>⚡ Fun fact I like to Sleep
+🔐Focused on Cybersecurity, DevSecOps & Application Security
+🛡️ Interested in SOC Operations, Threat Detection & Security Monitoring
+🕵️ Practicing Penetration Testing & Offensive Security
+☁️ Working with AWS, Azure, Kubernetes & Cloud Infrastructure
+⚙️ Building CI/CD and DevSecOps pipelines
+💻 Developing applications with JavaScript, TypeScript, Python & Node.js
+🐳 Working with Docker, Kubernetes, Jenkins, GitHub Actions & GitLab CI/CD
+🔎 Exploring SIEM, Vulnerability Management, Network Security & Threat Detection
+🌱 Continuously learning and improving my Cybersecurity & DevSecOps skills
 
 
 ## 🌐 Socials:
